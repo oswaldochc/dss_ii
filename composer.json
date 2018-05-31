@@ -1,0 +1,14 @@
+{
+    "name" : "dss_ii/dss_ii",
+    "description" : "Práctica 2",
+    "license" : "GPL 2.0",
+    "authors" : [{
+            "name" : "Oswaldo Chuquirima",
+            "email" : "ochuquiri1@alumno.uned.es",
+            "role" : "Student"
+        }
+    ],
+    "require": {
+        "zendframework/zend-escaper" : "2.5.*"
+    }
+}
